@@ -24,7 +24,7 @@ If you would like to contribute code to the project, please follow these convent
 * Always prefer `const` whenever possible and fall back to `let` only if absolutely necessary.
 
 ### Branches and Pull Requests
-Always develop on a new feature branch in your fork and submit pull requests from that branch to our master branch. Don't worry about changing any version numbers - that happens in its own PR before a release.
-
+**Always develop on a new feature branch in your fork and submit pull requests from that branch to our master branch. Don't worry about changing any version numbers - that happens in its own PR before a release.
+**
 ### Formatter Changes
 For small bug fixes or feature additions, always add a new test case to accompany your change. If you are making large sweeping changes to how the formatter works or leveraging an external dependency for formatting XML, please create a new XmlFormatter implementation.
